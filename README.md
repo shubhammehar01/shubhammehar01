@@ -1,11 +1,9 @@
-### Hi there 👋
-
-**shubhammehar01/shubhammehar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi there 👋
+My Name is Shubham Mehar
+College - Lakshmi Narain college of Technology,Bhopal
+More About me- 
 - 🔭 I’m currently Student
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Backend 
 - 👯 I’m looking to collaborate on Innovative Projects.
 - 💬 Ask me about any doubt
 - 📫 How to reach me: shubhammehar100@gmail.com
