@@ -1,6 +1,6 @@
 Hi there 👋
 My Name is Shubham Mehar
-College - Lakshmi Narain college of Technology,Bhopal
+
 More About me- 
 - 🔭 I’m currently Student
 - 🌱 I’m currently learning Backend 
